@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Lakshay",
+      "email": "Eliseo@gardner.biz",
+      "contact_no": "9729561434"
+    },
+    {
+      "id": 2,
+      "name": "Harsh",
+      "email": "Jayne_Kuhic@sydney.com",
+      "contact_no": "9729561894"
+    },
+    {
+      "id": 3,
+      "name": "Naman",
+      "email": "Nikita@garfield.biz",
+      "contact_no": "9729561898"
+    },
+    {
+      "id": 4,
+      "name": "Viren",
+      "email": "Lew@alysha.tv",
+      "contact_no": "9729561898"
+    },
+    {
+      "id": 5,
+      "name": "Harshit",
+      "email": "Hayden@althea.biz",
+      "contact_no": "9729861898"
+    }
+]
